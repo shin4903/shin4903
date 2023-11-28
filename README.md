@@ -1,8 +1,8 @@
 # Profile
 
-### 👋 JONG HTUK 👋 
+### 👋 JONG HYUK 👋 
 
-📧 SHINJH4903@gmail.com
+📧 shinjh4903@gmail.com
 
 🎓 창원대학교 조선해양공학과 ( 2017.03 - 2023.02 )
 
