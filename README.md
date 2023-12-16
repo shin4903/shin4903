@@ -54,6 +54,7 @@
         <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=difault"> 
 </div>
 <br>  
+
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shin4903)](https://solved.ac/shin4903/)
 
 
