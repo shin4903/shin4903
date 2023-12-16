@@ -46,13 +46,14 @@
       <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jirasoftware&logoColor=white"/>
       <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"/>
     </div>
-  <br>
+  <br/>
 </div>
 
 <h3> 💻 DEV's log</h3>
 <div style="display:flex; flex-direction:row;">
         <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=difault"> 
 </div>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shin4903)](https://solved.ac/shin4903/)
 <br/>
 ![shin4903's GitHub stats](https://github-readme-stats.vercel.app/api?username=shin4903&show_icons=true&theme=radical)
