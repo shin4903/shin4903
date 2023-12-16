@@ -55,7 +55,10 @@
 <div>
     <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=difault"> 
 </div>
-<div align="center">
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shin4903)](https://solved.ac/shin4903/)[![shin4903's GitHub stats](https://github-readme-stats.vercel.app/api?username=shin4903)](https://github.com/shin4903/github-readme-stats)
-<div/>
+<div style="display: flex; flex-direction: column; align-items: center;">
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shin4903)](https://solved.ac/shin4903/) 
+[![shin4903's GitHub stats](https://github-readme-stats.vercel.app/api?username=shin4903)](https://github.com/shin4903/github-readme-stats)
+
+</div>
+
