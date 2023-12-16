@@ -42,10 +42,10 @@
     <p><strong>👨‍👩‍👧‍👦 Collaboration Tools</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jirasoftware&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jirasoftware&logoColor=white"/>
       <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"/>
     </div>
   <br/>
@@ -53,7 +53,7 @@
 
 <h3> 💻 DEV's log</h3>
 <div align="center">
-        <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=difault"> 
+    <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=difault"> 
 </div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shin4903)](https://solved.ac/shin4903/)
