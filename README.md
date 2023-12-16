@@ -6,8 +6,6 @@
 
 💻 삼성 청년 SW 아카데미 9기 ( 2023.01 - 2023.12 )
 
-![shin4903's GitHub stats](https://github-readme-stats.vercel.app/api?username=shin4903&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shin4903)](https://solved.ac/shin4903/)
 <hr/>
 
 <h3> 🔨 SKILLS </h3>
@@ -55,4 +53,6 @@
 <div style="display:flex; flex-direction:row;">
         <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=difault"> 
 </div>
-<br>  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shin4903)](https://solved.ac/shin4903/)
+<br/>
+![shin4903's GitHub stats](https://github-readme-stats.vercel.app/api?username=shin4903&show_icons=true&theme=radical)
