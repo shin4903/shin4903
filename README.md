@@ -54,4 +54,5 @@
         <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=difault"> 
 </div>
 <br>  
+![shin4903's GitHub stats](https://github-readme-stats.vercel.app/api?username=shin4903&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shin4903)](https://solved.ac/shin4903/)
