@@ -35,7 +35,7 @@
     </div>
     <!-- Development Tools -->
     <p><strong>🔮 Development Tools</strong></p>
-    <div align="center">
+    <div >
         <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
     </div>
     <!-- Collaboration Tools -->
@@ -52,7 +52,7 @@
 </div>
 
 <h3> 💻 DEV's log</h3>
-<div style="display:flex; flex-direction:row;">
+<div align="center">
         <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=difault"> 
 </div>
 
