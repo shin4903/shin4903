@@ -2,7 +2,7 @@
 
 
   
-### 👋 JONG HYUK 👋 
+### 👋 JONG HYUK 👋
 
 📧 shinjh4903@gmail.com
 
